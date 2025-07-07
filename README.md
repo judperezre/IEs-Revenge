@@ -12,7 +12,7 @@ Tu misión: llegar hasta las oficinas de Google enfrentándote a enemigos digita
 🎮 Gameplay de plataformas en 2D.
 
 🧠 Historia con sátira digital y momentos cómicos.  
-
+ 
 👾 Enemigos inspirados en los males que afectan al internet.
 
 ⚔️ Jefes memorables: Gemini y Chrome.
