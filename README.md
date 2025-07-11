@@ -8,9 +8,9 @@
 IE’s Revenge es un videojuego de acción y aventura en 2D donde el protagonista es nada más y nada menos que Internet Explorer. Harto de años de burlas por su lentitud, cae en un mundo alterno y decide demostrar que todavía puede ser el mejor navegador del mundo... incluso superior a Chrome.
  
 Tu misión: llegar hasta las oficinas de Google enfrentándote a enemigos digitales, bugs con forma de enemigos, extensiones rotas y sistemas corruptos. Todo con el objetivo de derrotar a Gemini, el asistente de Chrome, y al mismísimo Chrome en una batalla final épica.
+
  ---
- 
-##✨ Características
+ ##✨ Características
 🎮 Gameplay de plataformas en 2D.
 
  ---
